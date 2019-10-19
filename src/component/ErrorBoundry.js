@@ -22,5 +22,5 @@ render () {
 }
 }
 
-export default Errorboundry;
+export default ErrorBoundry;
 
